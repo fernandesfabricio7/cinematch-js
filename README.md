@@ -310,3 +310,12 @@ Fabrício Fernandes Silva
 Link do vídeo:
 
 COLE_O_LINK_DO_VIDEO_AQUI
+
+## Melhorias futuras
+
+Algumas melhorias que podem ser implementadas:
+
+- Conectar com uma API real de filmes;
+- Criar uma interface usando React Native;
+- Adicionar sistema de favoritos;
+- Criar banco de dados para salvar perfis.
