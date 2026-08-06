@@ -313,9 +313,24 @@ COLE_O_LINK_DO_VIDEO_AQUI
 
 ## Melhorias futuras
 
-Algumas melhorias que podem ser implementadas:
+Algumas melhorias que podem ser implementadas em versões futuras:
 
-- Conectar com uma API real de filmes;
-- Criar uma interface usando React Native;
-- Adicionar sistema de favoritos;
-- Criar banco de dados para salvar perfis.
+- Conectar o sistema com uma API real de filmes e séries;
+- Criar uma interface visual utilizando React Native;
+- Adicionar sistema de usuários cadastrados;
+- Criar lista de favoritos;
+- Salvar histórico de recomendações;
+- Integrar banco de dados para armazenar perfis.
+
+
+## Autor
+
+Projeto desenvolvido como atividade avaliativa do Módulo 01 - Desenvolvimento Mobile React Native.
+
+Tecnologias utilizadas:
+
+- JavaScript;
+- Node.js;
+- prompt-sync;
+- Git;
+- GitHub.
