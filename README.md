@@ -291,11 +291,6 @@ O desenvolvimento foi organizado utilizando Kanban, com as seguintes etapas:
 - Concluído.
 
 
-As tarefas foram divididas para acompanhar a evolução do projeto, um amigo meu faz o curso, comentou que este projeto era em grupo, porém preferi fazer sozinho, não consigo ter muito tempo para ver as aulas completas sempre, então sempre preciso dar uma olhada nas gravações
-
-
----
-
 # 👨‍💻 Autor
 
 Nome do aluno:
