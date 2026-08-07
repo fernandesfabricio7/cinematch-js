@@ -243,7 +243,8 @@ function classificarCompatibilidade(percentual) {
 }// =====================================
 // MOSTRAR COMPATIBILIDADES
 // =====================================
-
+// Calcula o percentual de afinidade entre usuário e conteúdo
+function calcularCompatibilidade(usuario, conteudo) {
 
 function mostrarCompatibilidades() {
 
