@@ -300,11 +300,6 @@ Fabrício Fernandes Silva
 
 ---
 
-# 📹 Demonstração
-
-Link do vídeo:
-
-COLE_O_LINK_DO_VIDEO_AQUI
 
 ## Melhorias futuras
 
