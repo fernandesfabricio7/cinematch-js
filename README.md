@@ -84,6 +84,7 @@ cinematch-js/
 - npm
 
 
+
 ## 2 - Instalação
 
 Clone o repositório:
@@ -97,12 +98,11 @@ Entre na pasta do projeto:
 ```bash
 cd cinematch-js
 ```
+## Como executar
 
-Instale as dependências:
-
+1. Instale as dependências:
 ```bash
 npm install
-```
 
 
 ## 3 - Executar
