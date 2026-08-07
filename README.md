@@ -291,11 +291,6 @@ O desenvolvimento foi organizado utilizando Kanban, com as seguintes etapas:
 - Concluído.
 
 
-As tarefas foram divididas para acompanhar a evolução do projeto, um amigo meu faz o curso, comentou que este projeto era em grupo, porém preferi fazer sozinho, não consigo ter muito tempo para ver as aulas completas sempre, então sempre preciso dar uma olhada nas gravações
-
-
----
-
 # 👨‍💻 Autor
 
 Nome do aluno:
@@ -305,8 +300,27 @@ Fabrício Fernandes Silva
 
 ---
 
-# 📹 Demonstração
 
-Link do vídeo:
+## Melhorias futuras
 
-COLE_O_LINK_DO_VIDEO_AQUI
+Algumas melhorias que podem ser implementadas em versões futuras:
+
+- Conectar o sistema com uma API real de filmes e séries;
+- Criar uma interface visual utilizando React Native;
+- Adicionar sistema de usuários cadastrados;
+- Criar lista de favoritos;
+- Salvar histórico de recomendações;
+- Integrar banco de dados para armazenar perfis.
+
+
+## Autor
+
+Projeto desenvolvido como atividade avaliativa do Módulo 01 - Desenvolvimento Mobile React Native.
+
+Tecnologias utilizadas:
+
+- JavaScript;
+- Node.js;
+- prompt-sync;
+- Git;
+- GitHub.
