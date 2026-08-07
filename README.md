@@ -54,15 +54,6 @@ Foram aplicados conceitos como:
 - Entrada de dados pelo terminal.
 
 
----
-
-# 🚀 Tecnologias utilizadas
-
-- JavaScript
-- Node.js
-- prompt-sync
-- Visual Studio Code
-- Git e GitHub
 
 
 ---
@@ -205,7 +196,13 @@ Os resultados são classificados como:
 | 50% a 79% | Média afinidade |
 | 0% a 49% | Baixa afinidade |
 
+## Tecnologias utilizadas
 
+- JavaScript
+- Node.js
+- Programação Orientada a Objetos
+- Promises e Async/Await
+- Manipulação de arrays
 ---
 
 # 🧠 Conceitos JavaScript aplicados
